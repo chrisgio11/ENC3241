@@ -7,6 +7,7 @@ import CoverLetter from './pages/CoverLetter'
 import Resume from './pages/Resume'
 import MiniInterview from './pages/MiniInterview'
 import Proposal from './pages/Proposal'
+import Reflection from './pages/Reflection'
 import './App.css'
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
             <Route path="/resume" element={<Resume />} />
             <Route path="/mini-interview" element={<MiniInterview />} />
             <Route path="/proposal" element={<Proposal />} />
+            <Route path="/reflection" element={<Reflection />} />
           </Routes>
         </main>
         <Footer />

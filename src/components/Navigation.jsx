@@ -63,6 +63,14 @@ function Navigation() {
               Proposal
             </Link>
           </li>
+          <li>
+            <Link 
+              to="/reflection" 
+              className={isActive('/reflection') ? 'nav-link active' : 'nav-link'}
+            >
+              Reflection
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>
