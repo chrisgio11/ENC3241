@@ -9,16 +9,22 @@ function Instructions() {
 
       <section className="intro-section">
         <p>
-          This assignment demonstrates my ability to create clear, effective instructions for a specific task or process. 
-          The instructions are designed to be easily understood and followed by the intended audience, showcasing technical writing skills and attention to detail.
+For this assignment, I created a clear, well-organized set of instructions that taught someone how to complete a specific process of my choice. I broke the task into simple steps, used strong action-focused language, and included visuals and design elements to make the instructions easy for my intended audience to follow. The final product functioned as a real user guide that someone could use to successfully complete the task on their own.
+
         </p>
       </section>
 
       <section className="content-section">
         <h2>Revised Instructions</h2>
-        <p>
-          [Placeholder for instructions project.]
-        </p>
+        <div className="download-section">
+          <a 
+            href="/Minecraft_Instructions.pdf" 
+            download="Minecraft_Instructions.pdf"
+            className="download-button"
+          >
+            Click here to download Instructions Project
+          </a>
+        </div>
       </section>
     </div>
   )

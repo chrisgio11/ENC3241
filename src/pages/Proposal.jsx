@@ -16,9 +16,15 @@ function Proposal() {
 
       <section className="content-section">
         <h2>Revised/Finalized Proposal</h2>
-        <p>
-          [Placeholder for proposal project.]
-        </p>
+        <div className="download-section">
+          <a 
+            href="/Minecraft_Instructions.pdf" 
+            download="Minecraft_Instructions.pdf"
+            className="download-button"
+          >
+            Click here to download Proposal Project
+          </a>
+        </div>
       </section>
     </div>
   )

@@ -9,9 +9,15 @@ function Resume() {
 
       <section className="content-section">
         <h2>Revised Resume</h2>
-        <p>
-          [Placeholder for resume.]
-        </p>
+        <div className="download-section">
+          <a 
+            href="/Minecraft_Instructions.pdf" 
+            download="Minecraft_Instructions.pdf"
+            className="download-button"
+          >
+            Click here to download Resume
+          </a>
+        </div>
       </section>
     </div>
   )
