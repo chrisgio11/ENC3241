@@ -11,8 +11,8 @@ function Resume() {
         <h2>Revised Resume</h2>
         <div className="download-section">
           <a 
-            href="/Minecraft_Instructions.pdf" 
-            download="Minecraft_Instructions.pdf"
+            href="/CHRISTIAN_GIOVANNETTI_RESUME__REDACTED_.pdf" 
+            download="CHRISTIAN_GIOVANNETTI_RESUME__REDACTED_.pdf"
             className="download-button"
           >
             Click here to download Resume

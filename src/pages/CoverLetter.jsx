@@ -11,8 +11,8 @@ function CoverLetter() {
         <h2>Revised Cover Letter</h2>
         <div className="download-section">
           <a 
-            href="/Minecraft_Instructions.pdf" 
-            download="Minecraft_Instructions.pdf"
+            href="/Cover Letter (redacted).pdf" 
+            download="Cover Letter (redacted).pdf"
             className="download-button"
           >
             Click here to download Cover Letter

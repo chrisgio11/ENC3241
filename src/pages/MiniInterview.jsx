@@ -9,9 +9,18 @@ function MiniInterview() {
 
       <section className="content-section">
         <h2>Revised Mini Interview</h2>
-        <p>
-          [Placeholder for mini interview.]
-        </p>
+        <div className="video-section">
+          <div className="video-container">
+            <iframe
+              className="video-embed"
+              src="https://www.youtube.com/embed/RkTFt1K-UNY"
+              title="Mini Interview"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </div>
       </section>
     </div>
   )
